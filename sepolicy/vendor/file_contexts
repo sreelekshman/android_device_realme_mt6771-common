@@ -1,6 +1,3 @@
-# Device info
-/proc/devinfo(/.*)?                                                u:object_r:proc_devinfo:s0
-
 # Light
 /vendor/bin/hw/android\.hardware\.light-service\.realme_mt6771      u:object_r:hal_light_default_exec:s0
 
