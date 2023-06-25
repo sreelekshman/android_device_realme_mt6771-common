@@ -18,7 +18,6 @@ PRODUCT_PACKAGES += \
     audio.usb.default \
     libaudiopreprocessing \
     libtinycompress \
-    libtinycompress.vendor \
     libavservices_minijail \
     libavservices_minijail.vendor \
     libavservices_minijail_vendor \
